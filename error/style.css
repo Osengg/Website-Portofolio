@@ -1,0 +1,97 @@
+/* index (nav bar) */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkgray;
+}
+
+nav {
+    background-color: #0d0083;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 5px 30px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+nav ul li {
+    padding: 15px 0;
+    cursor: pointer;
+}
+
+nav ul li.items {
+    position: relative;
+    width: auto;
+    margin: 0 16px;
+    order: 3;
+}
+
+nav ul li.logo {
+    color: white;
+    font-size: 23px;
+    font-weight: 900;
+    flex: 1;
+    user-select: none;
+    cursor: default;
+}
+
+nav ul li.items::after {
+    background-color: yellow;
+    position: absolute;
+    content: '';
+    left: 0;
+    height: 2px;
+    bottom: 5px;
+    width: 100%;
+    opacity: 0;
+    transition: all 0.2s linear;
+}
+
+nav ul li.items:hover::after {
+    opacity: 1;
+    bottom: 8px;
+}
+
+nav ul li a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    transition: 1s;
+}
+
+nav ul li:hover a {
+    color: yellow;
+}
+
+nav ul li.items.none a {
+    color: silver;
+}
+
+.error-message {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.error-message h1 {
+    color: red;
+    font-size: 48px;
+}
+
+.error-message p {
+    color: black;
+    font-size: 16px;
+}
