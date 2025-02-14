@@ -47,9 +47,7 @@ Website-Portofolio/
 
 ## 🚀 Live Demo
 
-Check out the live demo of the website here:  
-[**Website Portfolio Live Demo**](https://osengg.github.io/Website-Portofolio/)
-
+Check out the live demo of the website here: _[Website Portfolio](https://osengg.github.io/Website-Portofolio/)_ <br>
 This link takes you to the published version of my portfolio hosted on GitHub Pages. Explore the pages, interact with the gallery, and see my work in action!
 
 ## 🛠️ Technologies
