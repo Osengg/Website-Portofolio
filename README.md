@@ -1,9 +1,8 @@
-👋 Hi, I’m @Sngklem  
-# 🌐 Website Portfolio
+# Website Portfolio
 
 Welcome to the **Website Portfolio** repository by **Osengg**. This is my personal portfolio website where I showcase my work, share my journey, and provide my contact information.
 
-## 📚 Table of Contents
+## Table of Contents
 
 - [👋 About](#about)
 - [✨ Features](#features)
@@ -14,11 +13,11 @@ Welcome to the **Website Portfolio** repository by **Osengg**. This is my person
 - [📫 Contact](#contact)
 - [📄 License](#license)
 
-## 👋 About
+## About
 
 Hello! I'm **Oseng (also known as Ruk)**, a passionate software engineer with a love for coding and problem-solving. This repository hosts my portfolio website where I display my projects, interests, and skills. My interests include web development, artificial intelligence, open source projects, and exploring new technologies.
 
-## ✨ Features
+## Features
 
 - **Profile Page:** Learn more about my background and experience.
 - **Gallery:** View a collection of my projects and memorable moments.
@@ -26,9 +25,9 @@ Hello! I'm **Oseng (also known as Ruk)**, a passionate software engineer with a 
 - **Social Media Integration:** Connect with me through various platforms.
 - **Responsive Design:** Enjoy a seamless experience on all devices.
 
-## 📁 Project Structure
+## Project Structure
 
-```
+```bash
 Website-Portofolio/
 ├── assets/              # Static assets (images, fonts, etc.)
 ├── contact/             # Contact page components
@@ -44,35 +43,39 @@ Website-Portofolio/
 
 *Note: The structure above is an approximation based on the repository layout.*
 
-## 🚀 Live Demo
+## Live Demo
 
-Check out the live demo of the website here: _[Website Portfolio](https://osengg.github.io/Website-Portofolio/)_ <br>
+Check out the live demo of the website here: *[Website Portfolio](https://osengg.github.io/Website-Portofolio/)* <br>
 This link takes you to the published version of my portfolio hosted on GitHub Pages. Explore the pages, interact with the gallery, and see my work in action!
 
-## 🛠️ Technologies
+## Technologies
 
 This project is built with:
+
 - **HTML**
 - **CSS**
 - **JavaScript**
 
-## ⚙️ How to Use
+## How to Use
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/Osengg/Website-Portofolio.git
    ```
+
 2. **Open the project:**
    Open `index.html` in your web browser to view the website.
 3. **Customize:**
    Modify the code as needed to personalize your portfolio.
 
-## 📫 Contact
+## Contact
 
 Feel free to reach out:
+
 - Email: [support@oseng.com](mailto:faruq110803@gmail.com)  
 - YouTube: [@Sngklem](https://www.youtube.com/@Sngklem)  
 
-## 📄 License
+## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source and available under the [MIT License]().
