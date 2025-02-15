@@ -4,14 +4,14 @@ Welcome to the **Website Portfolio** repository by **Osengg**. This is my person
 
 ## Table of Contents
 
-- [👋 About](#about)
-- [✨ Features](#features)
-- [📁 Project Structure](#project-structure)
-- [🚀 Live Demo](#live-demo)
-- [🛠️ Technologies](#technologies)
-- [⚙️ How to Use](#how-to-use)
-- [📫 Contact](#contact)
-- [📄 License](#license)
+- [About](#about)
+- [Features](#features)
+- [Project Structure](#project-structure)
+- [Live Demo](#live-demo)
+- [Technologies](#technologies)
+- [How to Use](#how-to-use)
+- [Contact](#contact)
+- [License](#license)
 
 ## About
 
