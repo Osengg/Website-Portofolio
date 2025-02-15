@@ -36,7 +36,6 @@ Website-Portofolio/
 ├── profil/              # Profile page components
 ├── daftar/              # Registration page components
 ├── index.html           # Main homepage
-├── script.js            # JavaScript functionality
 ├── style.css            # CSS styles
 └── README.md            # Project documentation
 ```
@@ -54,7 +53,6 @@ This project is built with:
 
 - **HTML**
 - **CSS**
-- **JavaScript**
 
 ## How to Use
 
@@ -78,4 +76,4 @@ Feel free to reach out:
 
 ## License
 
-This project is open-source and available under the [MIT License]().
+This project is open-source and available under the [MIT License](/).
